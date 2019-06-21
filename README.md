@@ -26,3 +26,7 @@ element on the y-axis.
 Combine these properties to create the illusion of some object floating!
 Use this in combination with the hover effect and you can make an element
 pop off the page when the user hovers over it.
+
+References
+https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+https://www.w3schools.com/cssref/css3_pr_transform.asp
